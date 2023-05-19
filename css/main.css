@@ -114,7 +114,7 @@ body {
 	transition: var(--transition);
 	will-change: transform;
 	text-align: left;
-    margin-left: 300px;
+    margin-left: 250px;
 }
 .content {
 	will-change: transform;
